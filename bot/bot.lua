@@ -222,12 +222,15 @@ function create_config( )
       "set",
       "stats",
       "time",
+      "admin",
+      "ingroup",
+      "info",
       "version",
       "weather",
       "youtube",
       "media_handler",
       "moderation"},
-    sudo_users = {our_id},
+    sudo_users = {179983320},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
